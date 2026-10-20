@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "reference_date": "2026-10-20",
+  "official_site": "https://aimensproxy.com/",
+  "source": "https://aimensproxy.com/downloads/",
+  "releases": [
+    {
+      "id": "android-1.0.53",
+      "label": "Aimens 1.0.53 для Android",
+      "filename": "aimens-proxy-android-1.0.53.apk",
+      "size_bytes": 79673625,
+      "sha256": "7c3d9544333400d4a7c8d792f510cbf554b5fedcaf63f843e3da8a7a2f70bb3a",
+      "download_url": "https://aimensproxy.com/downloads/files/aimens-proxy-android-1.0.53.apk"
+    },
+    {
+      "id": "windows-7.28.0",
+      "label": "Aimens 7.28.0 для Windows x64",
+      "filename": "aimens-proxy-windows-7.28.0.exe",
+      "size_bytes": 94980461,
+      "sha256": "7dd2fba5236b0762425f39f80ec0b56ef5561c46de5563ce206a097e2953c90d",
+      "download_url": "https://aimensproxy.com/downloads/files/aimens-proxy-windows-7.28.0.exe"
+    }
+  ]
+}
